@@ -17,15 +17,15 @@ import {
   addDoc,
 } from "firebase/firestore";
 
-// const firebaseConfig = {
-//   apiKey: "AIzaSyDIXJ5YT7hoNbBFqK3TBcV41-TzIO-7n7w",
-//   authDomain: "fir-auth-6edd8.firebaseapp.com",
-//   projectId: "fir-auth-6edd8",
-//   storageBucket: "fir-auth-6edd8.appspot.com",
-//   messagingSenderId: "904760319835",
-//   appId: "1:904760319835:web:44fd0d957f114b4e51447e",
-//   measurementId: "G-Q4TYKH9GG7",
-// };
+const firebaseConfig = {
+  apiKey: "AIzaSyDIXJ5YT7hoNbBFqK3TBcV41-TzIO-7n7w",
+  authDomain: "fir-auth-6edd8.firebaseapp.com",
+  projectId: "fir-auth-6edd8",
+  storageBucket: "fir-auth-6edd8.appspot.com",
+  messagingSenderId: "904760319835",
+  appId: "1:904760319835:web:44fd0d957f114b4e51447e",
+  measurementId: "G-Q4TYKH9GG7",
+};
 
 // const firebaseConfig = {
 //   apiKey: "AIzaSyCfDyRlVfD4LXDiEAhqRdmnO4uHQDh6HSE",
@@ -36,15 +36,15 @@ import {
 //   appId: "1:677920709463:web:b8b1cff8f134c6c6c2fc12"
 // };
 
-const firebaseConfig = {
-  apiKey: "AIzaSyCfLhNkSL9DZ1mphKuxjgVnEFU108XNovc",
-  authDomain: "is4301-assignment-6.firebaseapp.com",
-  projectId: "is4301-assignment-6",
-  storageBucket: "is4301-assignment-6.firebasestorage.app",
-  messagingSenderId: "893199938709",
-  appId: "1:893199938709:web:0fe927f944607a1f17d79c",
-  measurementId: "G-4NP4KSLYVB"
-};
+// const firebaseConfig = {
+//   apiKey: "AIzaSyCfLhNkSL9DZ1mphKuxjgVnEFU108XNovc",
+//   authDomain: "is4301-assignment-6.firebaseapp.com",
+//   projectId: "is4301-assignment-6",
+//   storageBucket: "is4301-assignment-6.firebasestorage.app",
+//   messagingSenderId: "893199938709",
+//   appId: "1:893199938709:web:0fe927f944607a1f17d79c",
+//   measurementId: "G-4NP4KSLYVB"
+// };
 
 const app = initializeApp(firebaseConfig);
 const auth = getAuth(app);
