@@ -27,14 +27,14 @@ import {
 //   measurementId: "G-Q4TYKH9GG7",
 // };
 
-// const firebaseConfig = {
-//   apiKey: "AIzaSyCfDyRlVfD4LXDiEAhqRdmnO4uHQDh6HSE",
-//   authDomain: "sample-47bf7.firebaseapp.com",
-//   projectId: "sample-47bf7",
-//   storageBucket: "sample-47bf7.appspot.com",
-//   messagingSenderId: "677920709463",
-//   appId: "1:677920709463:web:b8b1cff8f134c6c6c2fc12"
-// };
+// // const firebaseConfig = {
+// //   apiKey: "AIzaSyCfDyRlVfD4LXDiEAhqRdmnO4uHQDh6HSE",
+// //   authDomain: "sample-47bf7.firebaseapp.com",
+// //   projectId: "sample-47bf7",
+// //   storageBucket: "sample-47bf7.appspot.com",
+// //   messagingSenderId: "677920709463",
+// //   appId: "1:677920709463:web:b8b1cff8f134c6c6c2fc12"
+// // };
 
 const firebaseConfig = {
   apiKey: "AIzaSyCfLhNkSL9DZ1mphKuxjgVnEFU108XNovc",
